@@ -1,2 +1,2 @@
-# Inghamphoto.github.io
+# Ingham-photo.github.io
 Domain for Pinterist
